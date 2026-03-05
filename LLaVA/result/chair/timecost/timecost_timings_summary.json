@@ -1,0 +1,37 @@
+{
+  "Greedy": {
+    "images_processed": 500,
+    "total_elapsed_sec": 2801.1242949962616,
+    "total_new_tokens": 25500,
+    "avg_time_per_token_sec": 0.10984801156848084,
+    "avg_time_per_image_sec": 5.602248589992524
+  },
+  "PAI": {
+    "images_processed": 500,
+    "total_elapsed_sec": 2918.555424928665,
+    "total_new_tokens": 25500,
+    "avg_time_per_token_sec": 0.11445315391877119,
+    "avg_time_per_image_sec": 5.83711084985733
+  },
+  "HGAI": {
+    "images_processed": 500,
+    "total_elapsed_sec": 2865.5211708545685,
+    "total_new_tokens": 25500,
+    "avg_time_per_token_sec": 0.11237337924919877,
+    "avg_time_per_image_sec": 5.731042341709137
+  },
+  "IAT": {
+    "images_processed": 500,
+    "total_elapsed_sec": 2842.3118019104004,
+    "total_new_tokens": 25500,
+    "avg_time_per_token_sec": 0.11146320791805492,
+    "avg_time_per_image_sec": 5.684623603820801
+  },
+  "AdaIAT": {
+    "images_processed": 500,
+    "total_elapsed_sec": 2906.8556430339813,
+    "total_new_tokens": 25500,
+    "avg_time_per_token_sec": 0.11399433894250907,
+    "avg_time_per_image_sec": 5.813711286067963
+  }
+}
